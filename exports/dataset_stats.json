@@ -1,0 +1,10 @@
+{
+    "total_students": 395,
+    "risk_distribution": {
+        "Medium Risk": 192,
+        "High Risk": 130,
+        "Low Risk": 73
+    },
+    "average_G3": 10.415189873417722,
+    "attendance_avg": 5.708860759493671
+}
